@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div className="flex flex-col justify-center items-center min-h-screen text-white">
       <h1 className="text-5xl text-primary font-extrabold text-center mb-8 z-1">
-        HOBB
+        Welcome to HOBB
       </h1>
 
       {/* Links to Login and Register pages */}
