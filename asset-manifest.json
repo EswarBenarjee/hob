@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hob/static/css/main.bcf61e0a.css",
+    "main.js": "/hob/static/js/main.84f90e59.js",
+    "index.html": "/hob/index.html",
+    "main.bcf61e0a.css.map": "/hob/static/css/main.bcf61e0a.css.map",
+    "main.84f90e59.js.map": "/hob/static/js/main.84f90e59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcf61e0a.css",
+    "static/js/main.84f90e59.js"
+  ]
+}
