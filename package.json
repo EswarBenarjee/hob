@@ -1,6 +1,6 @@
 {
-  "name": "hobb",
   "homepage": "https://EswarBenarjee.github.io/hob",
+  "name": "hobb",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
